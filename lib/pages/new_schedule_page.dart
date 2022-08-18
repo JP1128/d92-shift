@@ -66,7 +66,7 @@ class _NewSchedulePageState extends State<NewSchedulePage> {
                       ),
                     ),
                   ),
-                  const SizedBox(width: 5),
+                  const SizedBox(width: 10),
                   Expanded(
                     child: Text(
                       "Dinner",
