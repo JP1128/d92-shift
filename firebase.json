@@ -4,8 +4,7 @@
     "indexes": "firestore.indexes.json"
   },
   "hosting": {
-    "target": "app.web.d92-shift",
-    "public": "public",
+    "public": "build/web",
     "ignore": [
       "firebase.json",
       "**/.*",
