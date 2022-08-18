@@ -174,9 +174,7 @@ class _NewSchedulePageState extends State<NewSchedulePage> {
                     message += "${weekdayLong(i)}: ${getMessage(morningAvailability[i], dinnerAvailability[i])}\n";
                   }
 
-                  Clipboard.setData(ClipboardData(
-                    text: message,
-                  ));
+                  Clipboard.setData(ClipboardData(text: message));
 
                   ScaffoldMessenger.of(context).showSnackBar(const SnackBar(content: Text("Successfully copied")));
                 },
