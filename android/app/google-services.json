@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "682658252431",
+    "project_id": "d92-shift",
+    "storage_bucket": "d92-shift.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682658252431:android:096c5fd887c4d03cd412fa",
+        "android_client_info": {
+          "package_name": "com.example.d92_shift"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682658252431-lvb9l2977hgoic93ao8o7a7pngsat9ta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS-_NPb5QqOrGu6dtTkEipKagq9F6ar1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682658252431-lvb9l2977hgoic93ao8o7a7pngsat9ta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
